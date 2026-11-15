@@ -1,0 +1,16 @@
+feature,corr_with_g3
+G2,0.9
+G1,0.8
+failures,-0.36
+Medu,0.22
+age,-0.16
+Fedu,0.15
+goout,-0.13
+traveltime,-0.12
+studytime,0.1
+health,-0.06
+Dalc,-0.05
+Walc,-0.05
+famrel,0.05
+absences,0.03
+freetime,0.01

@@ -1,0 +1,4 @@
+scenario,q,n_calib,quantile_level,avg_width_clipped
+A,8.15,79,0.911,16.25
+B,3.79,79,0.911,7.54
+C,2.99,79,0.911,5.9

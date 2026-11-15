@@ -1,0 +1,4 @@
+scenario,zero_grade_in_top8_calib_errors,q_all,q_g3_positive_only
+A,8,8.15,5.46
+B,8,3.79,2.91
+C,6,2.99,2.07

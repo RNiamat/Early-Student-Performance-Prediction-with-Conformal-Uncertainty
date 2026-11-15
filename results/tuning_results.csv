@@ -1,0 +1,7 @@
+scenario,model,default_cv_mae,tuned_cv_mae,gain,best_params
+A,Ridge,3.704,3.292,0.412,"{""alpha"": 300}"
+A,RandomForest,3.37,3.252,0.118,"{""max_depth"": null, ""max_features"": 0.3, ""min_samples_leaf"": 10}"
+B,Ridge,2.373,2.118,0.255,"{""alpha"": 30}"
+B,RandomForest,2.051,1.993,0.058,"{""max_depth"": 3, ""max_features"": 1.0, ""min_samples_leaf"": 1}"
+C,Ridge,1.495,1.411,0.084,"{""alpha"": 30}"
+C,RandomForest,1.298,1.265,0.034,"{""max_depth"": 3, ""max_features"": 1.0, ""min_samples_leaf"": 1}"

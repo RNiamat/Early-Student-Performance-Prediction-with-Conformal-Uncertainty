@@ -1,0 +1,4 @@
+set,rows,share_pct,g3_zero_count,g3_zero_share_pct,g3_mean,g3_std
+train,237,60.0,23,9.7,10.5,4.63
+calib,79,20.0,8,10.1,10.3,4.63
+test,79,20.0,7,8.9,10.27,4.44

@@ -1,0 +1,4 @@
+scenario,test_mae,mae_ci_low,mae_ci_high,baseline_mae,improvement,improvement_ci_low,improvement_ci_high,improvement_ci_excludes_0
+A,2.95,2.39,3.54,3.36,0.41,0.19,0.64,True
+B,2.12,1.7,2.58,3.36,1.24,0.64,1.81,True
+C,1.21,0.94,1.53,3.36,2.15,1.59,2.7,True

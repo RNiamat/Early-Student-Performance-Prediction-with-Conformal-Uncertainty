@@ -1,0 +1,16 @@
+scenario,rank,feature,mae_increase_calibration_set
+A,1,failures,0.143
+A,2,Medu,0.033
+A,3,Mjob,0.014
+A,4,sex,0.013
+A,5,romantic,0.013
+B,1,G1,2.698
+B,2,Mjob,0.017
+B,3,schoolsup,0.015
+B,4,Walc,0.013
+B,5,age,0.004
+C,1,G2,3.316
+C,2,studytime,0.025
+C,3,goout,0.004
+C,4,famrel,0.003
+C,5,Walc,0.003

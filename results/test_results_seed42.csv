@@ -1,0 +1,10 @@
+scenario,model,selected,mae,rmse,r2
+A,Baseline (mean),,3.361,4.418,-0.003
+A,Ridge,,2.965,3.94,0.202
+A,RandomForest,yes,2.95,3.926,0.208
+B,Baseline (mean),,3.361,4.418,-0.003
+B,Ridge,,1.983,2.731,0.617
+B,RandomForest,yes,2.122,2.927,0.56
+C,Baseline (mean),,3.361,4.418,-0.003
+C,Ridge,,1.311,1.89,0.816
+C,RandomForest,yes,1.214,1.806,0.832
